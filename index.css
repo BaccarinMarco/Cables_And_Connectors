@@ -1,0 +1,22 @@
+img { border: 1px solid #000; 
+	width: 400px;
+	height: 350px;
+}
+
+.n {
+	padding: 150px;
+	position: relative;
+	left: 150px;
+}
+
+.c {
+	padding: 10px;
+	position: relative;
+	left: 510px;
+}
+
+.s{
+	padding: 10px;
+	position: relative;
+	left: 845px;
+}
