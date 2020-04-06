@@ -20,3 +20,24 @@ img { border: 1px solid #000;
 	position: relative;
 	left: 845px;
 }
+
+.pa1{
+	
+	padding: 10px;
+	position: relative;
+	left: 500px;
+	top: -290px;
+}
+
+.ha{
+	padding: 10px;
+	position: relative;
+	left: 500px;
+	top: -253px;
+}
+
+.i { border: 1px solid #000; 
+	width: 400px;
+	height: 350px;
+	top: -4000px;
+}
