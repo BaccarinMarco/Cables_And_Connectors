@@ -1,0 +1,18 @@
+img{border: 1px solid #000;
+	width: 240px;
+	height: 220px;
+	
+}
+table{
+	border: 1px solid #000;
+}
+td{
+	border: 1px solid #000;
+}
+tr{
+	border: 1px solid #000;
+}
+.z {
+	position: relative;
+	left: 0px;
+}
